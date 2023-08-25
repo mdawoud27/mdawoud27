@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Brief about me:</h3>
-<ul>
-  <li>🔭 I’m currently working on <strong>Python ALX projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Python.</strong></li>
-</ul>
+### Brief about me:
+- 🔭 I’m currently working on **Python ALX projects**.
+- 🌱 I’m currently learning [**100 Days Of Python**](https://github.com/mdawoud27/100Days_Of_Python).
 
 <h3 align="left">Languages and Tools:</h3>
 
