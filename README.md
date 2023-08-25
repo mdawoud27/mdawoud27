@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Brief about me:
 - 🔭 I’m currently working on **Python ALX projects**.
-- 🌱 I’m currently learning [**100 Days Of Python**](https://github.com/mdawoud27/100Days_Of_Python).
+- 🌱 I’m currently learning [**Python**](https://github.com/mdawoud27/100Days_Of_Python).
 
 <h3 align="left">Languages and Tools:</h3>
 
