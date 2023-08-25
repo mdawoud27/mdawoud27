@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mdawoud27/mdawoud27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Brief about me:</h3>
+<ul>
+  <li>🔭 I’m currently working on <strong>Python ALX projects</strong></li>
+  <li>🌱 I’m currently learning <strong>Python.</strong></li>
+</ul>
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,linux,bash,c,cpp,python)](https://skillicons.dev)
+
+<h3 align="left">Profil stats:</h3>
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdawoud27&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="mdawoud27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdawoud27&theme=github_dark&show_icons=true&locale=en" alt="mdawoud27" /></p>
+
+<hr>
