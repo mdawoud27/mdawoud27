@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Python ALX projects**.
 - 🌱 I’m currently learning [**Python**](https://github.com/mdawoud27/100Days_Of_Python).
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,linux,bash,c,cpp,python)](https://skillicons.dev)
 
-<h3 align="left">Profile status:</h3>
-<hr>
-
+### Profile Status
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="mdawoud27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdawoud27&theme=github_dark&show_icons=true&locale=en" alt="mdawoud27" /></p>
 
-<hr>
+---
