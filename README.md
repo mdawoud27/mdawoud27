@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Brief about me:
 - 🔭 I’m currently working on **ALX projects**.
-- 🌱 I’m currently learning **JavaScript**.
+- 🌱 I’m interested in **Web Programming**.
 
 ### Languages and Tools:
 
