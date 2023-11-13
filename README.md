@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ### Brief about me:
-- 🔭 I’m currently working on **Python ALX projects**.
-- 🌱 I’m currently learning [**Python**](https://github.com/mdawoud27/100Days_Of_Python).
+- 🔭 I’m currently working on **ALX projects**.
+- 🌱 I’m currently learning **JavaScript**.
 
 ### Languages and Tools:
 
