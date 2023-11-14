@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,linux,bash,c,cpp,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux,bash,c,cpp,python,mysql)](https://skillicons.dev)
 
 ### Profile Status
 ---
