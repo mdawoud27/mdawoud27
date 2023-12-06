@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 ### Profile Status
 ---
+<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api?username=mdawoud27&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="mdawoud27" /></a>
+
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="mdawoud27" /></a>
