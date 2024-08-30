@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawoud27/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/mad_d27)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mhmaddawoud20@gmail.com)
-<a href="https://medium.com/@dawoud27" style="margin-left: 0.1rem">
-  <img src="https://github.com/mdawoud27/RecipeShare/blob/main/images/medium-icon-svgrepo-com.svg" alt="My Skills" width="50" height="50">
+<a href="https://medium.com/@dawoud27" style="margin-left: 0.1rem;">
+  <img src="https://github.com/mdawoud27/RecipeShare/blob/main/images/medium-icon.svg" alt="medium logo" width="50" height="50">
 </a>
 
