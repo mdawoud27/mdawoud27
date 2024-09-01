@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/mdawoud27)
 
 ### Tools and Utilities:
-<div style="display:flex; gap:0.5rem;">
-  <img src="./images/DataGrip-logo.svg" alt="datagrip logo">
-  <img src="https://skillicons.dev/icons?i=webstorm,linux,bash,git,vim,nginx,postman" alt="my skills">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,nginx,postman)](https://github.com/mdawoud27)
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawoud27/)
