@@ -32,14 +32,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/mdawoud27)
 
 ### Tools and Utilities:
-<div style="display:flex; gap:0.5rem;">
- <a > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/34px-DataGrip.svg.png" style="display:grid; place-content:center;" alt="datagrip logo" ></a>
-  <img src="https://skillicons.dev/icons?i=webstorm,linux,bash,git,vim,nginx,postman" alt="my skills">
-</div>
 
 
 <div style="display:flex; gap:0.5rem;">
-  <a style="display:grid; place-content:center;"><img src="./images/DataGrip.svg" alt="datagrip logo" style="width:2.2rem;"></a>
+  <a style="display:grid; place-content:center;"><img src="./images/DataGrip.svg" alt="datagrip logo" style="width:3rem;"></a>
   <img src="https://skillicons.dev/icons?i=webstorm,linux,bash,git,vim,nginx,postman" alt="my skills">
 </div>
 
