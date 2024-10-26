@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="mdawoud27" /></a>
 
 ### Web Development:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,mysql,mongodb,redis)](https://github.com/mdawoud27)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,mysql,postgres,mongodb,redis,prisma)](https://github.com/mdawoud27)
 
 ### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/mdawoud27)
 
 ### Tools and Utilities:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,nginx,postman)](https://github.com/mdawoud27)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vim,nginx,postman,docker)](https://github.com/mdawoud27)
+<!--vercel, pug-->
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawoud27/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/mad_d27)
