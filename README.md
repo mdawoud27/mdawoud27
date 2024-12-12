@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **ALX projects**.
 - 🌱 I’m interested in **Web Programming**.
 
-![streek](https://github-readme-streak-stats.herokuapp.com/?user=mdawoud27&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+<!--![streek](https://github-readme-streak-stats.herokuapp.com/?user=mdawoud27&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) -->
 
 ### Profile Stats
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdawoud27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="mdawoud27" /></a>
