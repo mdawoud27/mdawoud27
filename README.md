@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <!--![streek](https://github-readme-streak-stats.herokuapp.com/?user=mdawoud27&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) -->
 
 ### Profile Stats
-<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdawoud27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="mdawoud27" /></a>
-<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdawoud27&hide_progress=false&count_private=true&langs_count=6&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="mdawoud27" /></a>
+<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdawoud27&show_icons=true&icons_color=0D1117&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=ffffff" alt="mdawoud27" /></a>
+<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6" alt="mdawoud27" /></a>
 
 ### Web Development:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,mysql,postgres,mongodb,redis,prisma)](https://github.com/mdawoud27)
