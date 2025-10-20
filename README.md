@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Profile Stats
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdawoud27&show_icons=true&icons_color=0D1117&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=c5d2da&title_color=4694f8&icon_color=4694f8" alt="mdawoud27" /></a>
-<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6&title_color=4694f8&theme=github_dark" alt="mdawoud27" /></a>
+<a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&count_private=true&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6&title_color=4694f8&theme=github_dark" alt="mdawoud27" /></a>
 
 ### Web Development
 
