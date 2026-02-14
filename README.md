@@ -16,17 +16,16 @@ Here are some ideas to get you started:
   - repo link
 -->
 
-### Brief about me
+### About Me
 
-- 🔭 I’m currently working on **open source projects**.
-- 🌱 Passionate about **Web Programming**, especially backend architecture and API design.
+I am Mohamed Dawoud, a backend-focused software engineer interested in understanding how real-world software systems are designed and scaled. I enjoy building web applications and real-time systems, designing APIs and database schemas, and contributing to open source. Currently, I’m focusing on system design and scalable backend architecture.
 
 
 ### Profile Stats
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdawoud27&show_icons=true&icons_color=0D1117&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=c5d2da&title_color=4694f8&icon_color=4694f8" alt="mdawoud27" /></a>
 <a href="https://github.com/mdawoud27"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdawoud27&count_private=true&hide_border=true&show_icons=true&locale=en&layout=compact&langs_count=6&title_color=4694f8&theme=github_dark" alt="mdawoud27" /></a>
 
-### Web Development
+### Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,express,nestjs,postgres,mysql,mongodb,redis,prisma,graphql)](https://github.com/mdawoud27)
 
