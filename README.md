@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Brief about me
 
-- 🔭 I’m currently working on **ALX projects**.
-- 🌱 I’m interested in **Web Programming**.
+- 🔭 I’m currently working on **open source projects**.
+- 🌱 Passionate about **Web Programming**, especially backend architecture and API design.
 
 
 ### Profile Stats
